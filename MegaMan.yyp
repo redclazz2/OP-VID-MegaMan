@@ -150,6 +150,7 @@
     {"id":{"name":"spr_etank_pip","path":"sprites/spr_etank_pip/spr_etank_pip.yy",},},
     {"id":{"name":"spr_ammo_mega_buster","path":"sprites/spr_ammo_mega_buster/spr_ammo_mega_buster.yy",},},
     {"id":{"name":"obj_stats","path":"objects/obj_stats/obj_stats.yy",},},
+    {"id":{"name":"obj_mode_select","path":"objects/obj_mode_select/obj_mode_select.yy",},},
     {"id":{"name":"spr_dog_idle","path":"sprites/spr_dog_idle/spr_dog_idle.yy",},},
     {"id":{"name":"spr_medium_star_background","path":"sprites/spr_medium_star_background/spr_medium_star_background.yy",},},
     {"id":{"name":"animation_end","path":"scripts/animation_end/animation_end.yy",},},

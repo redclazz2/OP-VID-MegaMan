@@ -117,6 +117,7 @@
     {"name":"spr_etank_pip","order":5,"path":"sprites/spr_etank_pip/spr_etank_pip.yy",},
     {"name":"spr_ammo_mega_buster","order":3,"path":"sprites/spr_ammo_mega_buster/spr_ammo_mega_buster.yy",},
     {"name":"obj_stats","order":4,"path":"objects/obj_stats/obj_stats.yy",},
+    {"name":"obj_mode_select","order":4,"path":"objects/obj_mode_select/obj_mode_select.yy",},
     {"name":"spr_dog_idle","order":4,"path":"sprites/spr_dog_idle/spr_dog_idle.yy",},
     {"name":"spr_medium_star_background","order":6,"path":"sprites/spr_medium_star_background/spr_medium_star_background.yy",},
     {"name":"surface_set_and_clear","order":11,"path":"scripts/surface_set_and_clear/surface_set_and_clear.yy",},
