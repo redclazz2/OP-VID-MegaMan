@@ -17,3 +17,5 @@ draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
 
 obj_camera.state_ = CAM_MODE.fixed;
+
+obj_introduction_skip_ = false;

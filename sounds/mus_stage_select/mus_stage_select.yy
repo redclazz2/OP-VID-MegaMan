@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "mus_stage_select",
   "audioGroupId": {
-    "name": "audiogroup_default",
-    "path": "audiogroups/audiogroup_default",
+    "name": "MUS",
+    "path": "audiogroups/MUS",
   },
   "bitDepth": 1,
   "bitRate": 128,

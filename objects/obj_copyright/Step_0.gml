@@ -21,4 +21,5 @@ wait_timer_ --;
 if(obj_input.start_pressed_){
 	persistent = true;
 	room_goto_next();
+	alarm[0] = 1;
 }
