@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "audio_play_sound_ext",
+  "name": "audio_play_sound_ext_f",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

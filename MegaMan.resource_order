@@ -171,6 +171,7 @@
     {"name":"snd_test","order":13,"path":"sounds/snd_test/snd_test.yy",},
     {"name":"queue_silence","order":3,"path":"scripts/queue_silence/queue_silence.yy",},
     {"name":"spr_password_ball","order":15,"path":"sprites/spr_password_ball/spr_password_ball.yy",},
+    {"name":"obj_player_title","order":3,"path":"objects/obj_player_title/obj_player_title.yy",},
     {"name":"spr_dog_foot1","order":2,"path":"sprites/spr_dog_foot1/spr_dog_foot1.yy",},
     {"name":"spr_room_boundary","order":17,"path":"sprites/spr_room_boundary/spr_room_boundary.yy",},
     {"name":"spr_mega_man_teleporting","order":13,"path":"sprites/spr_mega_man_teleporting/spr_mega_man_teleporting.yy",},
