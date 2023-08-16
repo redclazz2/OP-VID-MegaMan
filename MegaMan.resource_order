@@ -39,6 +39,7 @@
     {"name":"Weapons","order":9,"path":"folders/Sprites/Weapons.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Local Optimizations","order":4,"path":"folders/Scripts/Local Optimizations.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"snd_enemy_damage","order":7,"path":"sounds/snd_enemy_damage/snd_enemy_damage.yy",},
@@ -91,6 +92,7 @@
     {"name":"spr_wood_man_idle","order":2,"path":"sprites/spr_wood_man_idle/spr_wood_man_idle.yy",},
     {"name":"mus_game_over","order":1,"path":"sounds/mus_game_over/mus_game_over.yy",},
     {"name":"snd_energy_fill","order":8,"path":"sounds/snd_energy_fill/snd_energy_fill.yy",},
+    {"name":"obj_selector","order":5,"path":"objects/obj_selector/obj_selector.yy",},
     {"name":"rm_init","order":4,"path":"rooms/rm_init/rm_init.yy",},
     {"name":"spr_medium_star","order":4,"path":"sprites/spr_medium_star/spr_medium_star.yy",},
     {"name":"spr_mega_man_weapon_model","order":16,"path":"sprites/spr_mega_man_weapon_model/spr_mega_man_weapon_model.yy",},

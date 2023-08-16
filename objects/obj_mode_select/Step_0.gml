@@ -1,25 +1,20 @@
 //Option Handler
 if(draw_caret_){
 	if(obj_input.up_pressed_){
-		selection_ = wrap(--selection_,0,1);
-		interval_timer_ = 0;
-		if(audio_sound_get_track_position(sound_) > 200 || !audio_exists(sound_)){
-			audio_stop_sound(sound_);
-			sound_ = re_audio_play_sound_ext(snd_caret,1,false,noone,2);
-		}
+		handleMenuInput(-1);
 	}
 	if(obj_input.down_pressed_){
-		selection_ = wrap(++selection_,0,1);
-		interval_timer_ = 0;
-		if(audio_sound_get_track_position(sound_) > 200 || !audio_exists(sound_)){
-			audio_stop_sound(sound_);
-			sound_ = re_audio_play_sound_ext(snd_caret,1,false,noone,2);
-		}
+		handleMenuInput(1);
 	}
 	
 	interval_timer_ ++;
 	
 	if(obj_input.start_pressed_){
-
+		if(selection_ == 0){
+			draw_caret_ = false;
+			audio_stop_all();
+			audio_play_sound(snd_teleporting,1,false);
+			fade_transition(TRANS_MODE.goto,rm_stage_select);
+		}
 	}
 }

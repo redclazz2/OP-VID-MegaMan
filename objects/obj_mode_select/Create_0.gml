@@ -13,3 +13,4 @@ sound_ = noone;
 draw_caret_ = true;
 
 obj_camera.mode_ = CAM_MODE.fixed;
+song_ = queue_new_song(mus_mode_select,1,0,SEC);
