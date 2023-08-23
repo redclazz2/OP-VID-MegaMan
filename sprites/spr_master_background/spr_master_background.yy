@@ -16,8 +16,8 @@
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ffc853c1-5ac3-4c57-8e1c-8f863a73a0ba",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5f736bd1-86a1-4c39-9961-bfa5ab37e02c",},
   ],
-  "gridX": 16,
-  "gridY": 16,
+  "gridX": 0,
+  "gridY": 0,
   "height": 240,
   "HTile": false,
   "layers": [
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ffc853c1-5ac3-4c57-8e1c-8f863a73a0ba","path":"sprites/spr_master_background/spr_master_background.yy",},},},"Disabled":false,"id":"03fa8d51-af48-4f41-bba7-138b4d9a7902","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5f736bd1-86a1-4c39-9961-bfa5ab37e02c","path":"sprites/spr_master_background/spr_master_background.yy",},},},"Disabled":false,"id":"0b204e03-3c13-47c5-a573-151210580d6c","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ffc853c1-5ac3-4c57-8e1c-8f863a73a0ba","path":"sprites/spr_master_background/spr_master_background.yy",},},},"Disabled":false,"id":"523f8827-c54b-4a2b-aa17-934d4986125b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5f736bd1-86a1-4c39-9961-bfa5ab37e02c","path":"sprites/spr_master_background/spr_master_background.yy",},},},"Disabled":false,"id":"68509f6b-02d6-43ce-b5c6-7b4e1958b23c","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

@@ -41,7 +41,7 @@ function MACROS() {
 	global.PREVIOUS_STAGE = rm_copyright;
 	global.DIFFICULT = 0;
 	global.MASTER_SELECTED = 0;
-	ds_list_add(global.MASTERS_DEFEATED,true,true,false,false,false,false,false,false,false);
+	ds_list_add(global.MASTERS_DEFEATED,false,false,false,false,false,false,false,false,false);
 	//ds_map_add(global.MASTERS_DEFEATED,"bubble_man",false);
 	//ds_map_add(global.MASTERS_DEFEATED,"air_man",false);
 	//ds_map_add(global.MASTERS_DEFEATED,"quick_man",false);
