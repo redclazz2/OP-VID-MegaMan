@@ -28,6 +28,8 @@ if(!selected_){
 	
 	selection_ = _y * 3 + _x;
 	
+	//show_debug_message(selection_);
+	
 	if(obj_input.start_pressed_){
 		if(selection_ != 4){
 			selected_ = true;

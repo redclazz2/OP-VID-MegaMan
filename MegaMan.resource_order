@@ -11,6 +11,7 @@
     {"name":"Paths","order":4,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Local Optimizations","order":4,"path":"folders/Scripts/Local Optimizations.yy",},
     {"name":"Object Scripts","order":1,"path":"folders/Scripts/Object Scripts.yy",},
     {"name":"general","order":1,"path":"folders/Scripts/Object Scripts/general.yy",},
     {"name":"obj_music_manager","order":2,"path":"folders/Scripts/Object Scripts/obj_music_manager.yy",},
@@ -39,7 +40,6 @@
     {"name":"Weapons","order":9,"path":"folders/Sprites/Weapons.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Local Optimizations","order":4,"path":"folders/Scripts/Local Optimizations.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"snd_enemy_damage","order":7,"path":"sounds/snd_enemy_damage/snd_enemy_damage.yy",},
