@@ -40,6 +40,8 @@
     {"name":"Weapons","order":9,"path":"folders/Sprites/Weapons.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Enemy Objects","order":4,"path":"folders/Objects/Enemy Objects.yy",},
+    {"name":"Wood Man","order":1,"path":"folders/Objects/Enemy Objects/Wood Man.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"snd_enemy_damage","order":7,"path":"sounds/snd_enemy_damage/snd_enemy_damage.yy",},

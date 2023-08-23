@@ -42,14 +42,6 @@ function MACROS() {
 	global.DIFFICULT = 0;
 	global.MASTER_SELECTED = 0;
 	ds_list_add(global.MASTERS_DEFEATED,false,false,false,false,false,false,false,false,false);
-	//ds_map_add(global.MASTERS_DEFEATED,"bubble_man",false);
-	//ds_map_add(global.MASTERS_DEFEATED,"air_man",false);
-	//ds_map_add(global.MASTERS_DEFEATED,"quick_man",false);
-	//ds_map_add(global.MASTERS_DEFEATED,"heat_man",false);
-	//ds_map_add(global.MASTERS_DEFEATED,"wood_man",false);
-	//ds_map_add(global.MASTERS_DEFEATED,"metal_man",false);
-	//ds_map_add(global.MASTERS_DEFEATED,"flash_man",false);
-	//ds_map_add(global.MASTERS_DEFEATED,"crash_man",false);
 
 	//Macros
 	#macro SEC game_get_speed(gamespeed_fps)

@@ -43,6 +43,7 @@ if(selected_){
 	countdown_ --;
 	if(!audio_is_playing(snd_teleporting)){
 		global.MASTER_SELECTED = selection_;
+		show_debug_message(global.MASTER_SELECTED);
 		audio_stop_all();
 		room_goto(rm_master_display);
 	}
